@@ -1,7 +1,7 @@
 def sum(a,b):
     return a + b
-print(sum(1, 2))
+print(sum(2, 1))
 
-def sum(a,b):
+def sum1(a,b):
     return a - b
-print(sum(1, 2))
+print(sum1(2, 1))
